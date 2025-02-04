@@ -1,0 +1,5869 @@
+fileFormatVersion: 2
+guid: 5fb021f25d2626349856e00c5d3b00ad
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Personaje Principal_0
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 526
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc1e99cb97484c449cd33c89fc043a2
+      internalID: -492688461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_1
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 526
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ece8f5528fde440aa7865bd17dfd81
+      internalID: 649617771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_2
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 525
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd82446a20510d4594bd9a93212a7c2
+      internalID: -1216946141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_3
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 525
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd8c8eaf539c914083362a86f62365c
+      internalID: -400424968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_4
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 526
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea30f4ab2400994e9197f13cb0fac1d
+      internalID: -422517733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_5
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 525
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9665c1391122a4ca0cdd54659301f8
+      internalID: -1265517657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_6
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 526
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e008e028d88f0754895ac4cbb2b13174
+      internalID: 540190736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_7
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 526
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc094d0e6fc3aa14fa808e266a05a202
+      internalID: -1635036118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_8
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 525
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 715593feb824cc340a74dae738c5568b
+      internalID: -968862589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_9
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 526
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d05804835fedb0d4a80fedc664ee0220
+      internalID: 18606888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_10
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 526
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9372b9564c3aec4d964030355c4441a
+      internalID: -1948958717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_11
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 525
+        width: 9
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b4d51e4d7222946b8989d13f1af620
+      internalID: -213140386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_12
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 526
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b46762241066e343b150a34d00fd4e6
+      internalID: 2143970094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_13
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 526
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3013d30471d1024d8996c4512fad90a
+      internalID: 1465574463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_14
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 525
+        width: 10
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d8d094a8e40494598d8a87e7b8e1b7
+      internalID: -1998220508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_15
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 525
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5146bc68eb90d87498fb78228ece7229
+      internalID: 121603722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_16
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 487
+        width: 11
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ad0ca4233d19344bf8e0700f1ae2d2
+      internalID: -1858429039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_17
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 486
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb754964a074934f8ff1b9ad92b02f9
+      internalID: -1091707154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_18
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 486
+        width: 11
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e73d62a9f3e44b14f888c75b0aad3577
+      internalID: -622846302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_19
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 486
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb58c3e028d9e7419eb6820155a3855
+      internalID: 1355194596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_20
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 488
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab9ad38bc50ca64a9e6fb43c409851c
+      internalID: -265575181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 487
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4982e0fa594de4a4f9d4b25829dde8e2
+      internalID: 1857383240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_22
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 487
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f77264892fb8f142901768aeb4cca38
+      internalID: -2053459878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_23
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 487
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b6c38f3fca2ad54b948456d77b75b90
+      internalID: -2046873473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_24
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 488
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378858abcb0471d4584954dd076e6ed2
+      internalID: 1484368530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_25
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 489
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92711975c79c34944963b69a7d66261d
+      internalID: 1730387866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_26
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 487
+        width: 11
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27083246e7fef37458164040929dc8f2
+      internalID: 620974468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_27
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 488
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92bd6a95e050bba4897120e2791dbace
+      internalID: 772488460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_28
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 489
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74fe247295d90b8488ac8ca72b390da8
+      internalID: -915243496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_29
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 490
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c848c112f14f1784990b370dfd4ad38d
+      internalID: -909475335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_30
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 490
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104465c02b92588449813381bd4046da
+      internalID: 878102944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_31
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 489
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b77797806f66a348bd63e97569dacc8
+      internalID: 629054120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_32
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 451
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a02d98851dd4f5a43bb4afe0ec87b7a2
+      internalID: -1106832902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_33
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 449
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3460044567270e446badfcbb568c0deb
+      internalID: 1055627914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_34
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 455
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b90504550e0d14c9072bdb654dd23f
+      internalID: 2039503502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_35
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 455
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b652cd489d2bd3642a9e1f6c7e9371f8
+      internalID: 797378699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_36
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 455
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3149c429ec6e084b880853db678ac8c
+      internalID: 1177757870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_37
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 455
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd66ff904e204034194f372d3a888313
+      internalID: 2075733547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_38
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 455
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec3b49fd54d79e4191ef5edbc86dbc8
+      internalID: 1461491988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_39
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 455
+        width: 31
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46eadb2b0987e684f971574c0fd00dd4
+      internalID: -203805345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_40
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 458
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41af4e51f4baded4a8d46bb2ec4a7505
+      internalID: -73071537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_41
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 455
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec6b1afb119ee74d81159d41886a385
+      internalID: -1065173040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_42
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 455
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c71818602aff1045897c8c33db3c917
+      internalID: -2144327593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_43
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 455
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0919a0c10a0a9b48b437de8dbaddd4b
+      internalID: -1297113110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_44
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 450
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff08054ff963a8458b1128217a530df
+      internalID: -1792125410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_45
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 409
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6218ff03e3655ee458a43a7e90b496d8
+      internalID: -498255208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_46
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 408
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 076e727626f474043a91447f465d8ffc
+      internalID: -2143827823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_47
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 410
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2470ebc3b3665054f812da57bbf1ff60
+      internalID: -1588014655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_48
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 410
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a7308f5122eb84b985d30ea05c3880
+      internalID: 547534247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_49
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 408
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01097e8004819044da9885105ad94200
+      internalID: 2110213116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_50
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 411
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb549132ca22b624abc5be085e91c398
+      internalID: 1104836279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_51
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 408
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46bec1ab316ce504b9147ab3a1c370e5
+      internalID: -810818982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_52
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 409
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e59309878cdc0f4998d61eeeaf963cf
+      internalID: 1362169451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_53
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 409
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 143950e25e0b6d64fa4a96e04680dc27
+      internalID: 1518206879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_54
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 411
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e16310e52f54f4881ef2a1c535fad9
+      internalID: 188332527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_55
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 408
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec462adf955d4b547a9c6b4da24958cc
+      internalID: 572762206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_56
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 409
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f72c4144a8bab3b44bd0ef26a09e1246
+      internalID: -1503728041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_57
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 408
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 148ad36a573672349859ceaa6909c7e0
+      internalID: 1933452683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_58
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 409
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea136f4e1e926042b0113cad3b55603
+      internalID: -1300248310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_59
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 409
+        width: 10
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f02d92977863fbf4abbb54d5da931019
+      internalID: 98417755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_60
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 409
+        width: 11
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2840ea63d8f57cf489a243a37ad46332
+      internalID: 653825968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_61
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 355
+        width: 54
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 787bcde3f8850c244bb96c05587a9e8e
+      internalID: 339676981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_62
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 357
+        width: 54
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 854e712a1c82b8b41a609d6abf17f19b
+      internalID: 1193356431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_63
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 384
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ee664f87e8fa74eb115d018902cbb5
+      internalID: -1512564758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_64
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 377
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acfac7ce5c5e48042a48ca838fa12e63
+      internalID: 1079170781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_65
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 378
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ff8a4a741920748b9cfe5729e97f10
+      internalID: -773540714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_66
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 377
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcfac1ed22c1dab4797ebfc8e7f89d4d
+      internalID: -852749556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_67
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 384
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a91c29cd8685a11439dedff21bf2f881
+      internalID: -867421860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_68
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 384
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9742568215bae346aa7506fdc25726d
+      internalID: -993034249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_69
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 384
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088f4364aa5fb77459b5b223517cab80
+      internalID: -1670574626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_70
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 361
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b87ca8984a9c54992dbf9e5ee58dfc
+      internalID: -126286279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_71
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 360
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da021c1a8c0c3c14bb7e74c67a871bbb
+      internalID: -807036519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_72
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 353
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179ec4f41fb517149b9f5a3e98b9281b
+      internalID: 963181224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_73
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 355
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 955a942368f7a054aafac5b53bc9e9dd
+      internalID: 139798042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_74
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 356
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba5bf4680f4c96742982191cf4a41252
+      internalID: 715113858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_75
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 355
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8017e9e31d7fcc43b73875416efe0b4
+      internalID: 1410423159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_76
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 357
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e1d1976bf1d0914893cc2b84eaea1c8
+      internalID: 1527016401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_77
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 330
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3592014da7276e418bb2b72b62790f0
+      internalID: 1749176842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_78
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 330
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d155c078b4e5ada448b36898a1810b34
+      internalID: 121906220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_79
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 330
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d85f0b1c96f517040b253aadfbe9eeb9
+      internalID: 137805327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_80
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 330
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86e73943e950b34d982e71dd1f29710
+      internalID: -582175504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_81
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 330
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1005990a5410bab40953e510c87a5635
+      internalID: 527406036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_82
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 333
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f59f3c7a5c85b43abdb6f42a1e75a3
+      internalID: -50091857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_83
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 331
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77396bd4321902746a1a1186e05e0beb
+      internalID: 25768792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_84
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 333
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974e82c8aebc01c4481449584bc3e160
+      internalID: 696586607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_85
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 335
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abcc0d744fc3e3248a18e9a31025a842
+      internalID: -147356113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_86
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 334
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b087a52367ec84ab0463215728d444
+      internalID: 1862146315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_87
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 333
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 801d40134c9a93143a1633b0782743f2
+      internalID: 575925652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_88
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 334
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93808738e4bb49d43adf1fba56259b56
+      internalID: -1527411463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_89
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 332
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa9a7a1065fc8d74cb210b687e271f29
+      internalID: -1542363361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_90
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 330
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c974b29b3effa0a488d98bbbfb74021e
+      internalID: 1015535216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_91
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 329
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65c967417344764a9ff47c7ff03f4b9
+      internalID: -1759067633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_92
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 309
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c59279eec5ff4488c2d34e62f06f3e
+      internalID: -336304002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_93
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 309
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e44625a9b444f374c970079b2058bfe0
+      internalID: -1035791037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_94
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 312
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c75b81a49590af94b928a1e81ac6dc32
+      internalID: 1916464419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_95
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 313
+        width: 15
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a6f8a07f1f0f9448411b7ad65a1d69
+      internalID: 660642265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_96
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 308
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa0993d87c63fd49ab325f6f037404e
+      internalID: 633633513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_97
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 309
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff131e3ca650064f83152ceca19a616
+      internalID: 1953729795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_98
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 313
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51728a84e1d15614886eb2eb3ed4240a
+      internalID: -1097363284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_99
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 313
+        width: 15
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c45e6a2807a1414e89e4caabcb5d351
+      internalID: 1402562335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_100
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 306
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 564302dcbd7e57f49998ce540359bcff
+      internalID: -743992545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_101
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 309
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20406c1dd29e62b4fa932b2b4055bc84
+      internalID: 1489489552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_102
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 309
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6162ddecfe070584eafe93718d0e720e
+      internalID: -915378257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_103
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 310
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af4e328b5c1d1c49943a1cee731f5c2
+      internalID: -173681059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_104
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 310
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f925c71047076c44ad161e7d687da5e
+      internalID: -2136172607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_105
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 309
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e0ce4a0c41f8841be8628abe7ee18a
+      internalID: -901983962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_106
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 309
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c16158a2b041154ebfdcaafcd85c818
+      internalID: 1179401644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_107
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 309
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d430c5ee2bbf448bb6386183b70420
+      internalID: 856897734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_108
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 268
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ca974cfec73f84dad085866c6f419a
+      internalID: 2121591058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_109
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 268
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f8a5a864ab5584588306f66a42e3e9
+      internalID: -869493964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_110
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 268
+        width: 11
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f89f3607691b21468d8828d9aafd4b1
+      internalID: 1169914513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_111
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 269
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf770818ce2a24347a182ea5f6247140
+      internalID: -916226636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_112
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 268
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098b755e40d53bf459d64771c8fed35e
+      internalID: 1978816145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_113
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 268
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87afa865f278c414eab6eab6d0556de3
+      internalID: 1288082220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_114
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 268
+        width: 11
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f2d78a5d34caf4aa89f0eb4e4de62d
+      internalID: 1884443761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_115
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 268
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e4f3ddab95740488b1cb12a53744d7
+      internalID: 81695358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_116
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 231
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f8d83a8f16b1b41bdb792f19f9c259
+      internalID: -1784234974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_117
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 230
+        width: 11
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37bc59467af7f77479debbd6fb75847c
+      internalID: 648649284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_118
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 231
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba9231e2b9d7694b9c076f37353114c
+      internalID: 935003044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_119
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 230
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9a74276c3dc5745ac5a226286fda69
+      internalID: -548913231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_120
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 231
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb9b6159ba5dc4c45b25e7aabee3feca
+      internalID: -1034524921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_121
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 231
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 303a835682bad3b40b4f02cadeb20101
+      internalID: -442250054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_122
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 232
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca47415190859f6478ee574437ec5a90
+      internalID: -432839219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_123
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 231
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d184f2ebdb300d459028b7d9b7a4c91
+      internalID: -1777421298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_124
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 237
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47a1cc2648f3ea4ab97bac6b8c19cac
+      internalID: 495351101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_125
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 230
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f072ebdc93d94804e8c0f422ed8c9158
+      internalID: 806451026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_126
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 233
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a7554b15b6404e4f848dc4dff4cc781
+      internalID: -1535864529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_127
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 230
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8404ce727398038418e42110082eb22b
+      internalID: 1556635498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_128
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 206
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b700568828d8b4996251bcd360baf2
+      internalID: -847669743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_129
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 206
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dde8f71e398eb3498c21b771589fcb3
+      internalID: 179020329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_130
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 206
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f73586b9b7e6f574780d3690ed2ce496
+      internalID: -1324580355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_131
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 206
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 989a5dfd521f21747b17f66ca0928314
+      internalID: -245388559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_132
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 206
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3631723768415e489862594266a8eac
+      internalID: -1279050686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_133
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 207
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e85794414da94a4bb35d2fc332c4ebf
+      internalID: 1988046150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_134
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 206
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a8423c76de5be4b85a01504b6487ac
+      internalID: 1632944802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_135
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 206
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e63fa6b3bdea624ebb4616b2b748a36
+      internalID: 1482474921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_136
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 208
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a811550b9a466614fa651024ce2145ef
+      internalID: 1940918892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_137
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 207
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abfe84415fddfad43abd3ac2ca6f88b3
+      internalID: -410883532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_138
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 206
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b84d6e3962d93447986e149b10b84b2
+      internalID: -2059607555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_139
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 207
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a136fc4d26ae4439bfb0828b9b9dac
+      internalID: 1837257836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_140
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 208
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76de81e514f86f4eb87b35caf077926
+      internalID: -1625356650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_141
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 208
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7112b0aaf7388345843466db2d76983
+      internalID: 119993556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_142
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 206
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15fd5de9b30842e48b35fda08c78a8d3
+      internalID: -734420458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_143
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 207
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a41d79c62e9cc441824123be49a675d
+      internalID: -1387779848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_144
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 210
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a391a2640617c7143af837ebcfa5b86c
+      internalID: 229335881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_145
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 211
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b31bf183f22e6104492bbff527e6d67a
+      internalID: -784689466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_146
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 211
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23c259f228f70a4ba3b73313d4448dd
+      internalID: 513664794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_147
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 183
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abcfb955671d1b146b94881a04a33d3f
+      internalID: -1672831526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_148
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 182
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e2a42667ee65f4aaacaaf3494e8586
+      internalID: 1960874296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_149
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 182
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 076ad44814bda4f4591a822b8df877f2
+      internalID: -1931326000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_150
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 182
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c731640275cc5c42b9d31a487841c93
+      internalID: -94900417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_151
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 183
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 187a9476d111c084f8f0d58bd8f2a45f
+      internalID: 791172062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_152
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 182
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9444f08d649c0344b8281d430a7f7dca
+      internalID: 1648502412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_153
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 182
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b91aaa32d2ae974ab2428bff30d19b4
+      internalID: 1867648203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_154
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 182
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2da862fa9d37b141b376acc1ad6e192
+      internalID: 1815363237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_155
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 183
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c197b66d46a077741a26c5a92b841f10
+      internalID: -379729145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_156
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 183
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 896732e58998df84a832e0589baa4621
+      internalID: 464740763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_157
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 182
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499678f6dafae09468c91c9aa6bae89d
+      internalID: 1826378269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_158
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 183
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc53dfe20967f964abedff1c9781c12d
+      internalID: -1103547376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_159
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 183
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f79c3c09512cf468789bd422c87fef
+      internalID: 1448047756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_160
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 183
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98647be416b599f479b912f2e4920424
+      internalID: -431693895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_161
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 182
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f7038e0d1dea6428f7de5623d84ec7
+      internalID: 746376088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_162
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 183
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de532f8b481dff4291c335db5862650
+      internalID: -1918574694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_163
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 159
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70eeb94e09f32064ba27ccf744d4193c
+      internalID: -1727389744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_164
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 159
+        width: 5
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9da699dd10c5e4a906cb67d5bc1d9a
+      internalID: 302249465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_165
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 158
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a8f30adefa72a49b0974b726965046
+      internalID: -1115633494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_166
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 158
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381a401ef22d43942b19dcb8ff71205f
+      internalID: 1877283565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_167
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 158
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a3862efe05c364689a8d6057165120
+      internalID: 395908895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_168
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 164
+        width: 15
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c644a81f4be82294fb24e07d83b85784
+      internalID: -1494409197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_169
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 164
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c008e6b81f96e4469cce10872582b64
+      internalID: -79503735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_170
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 164
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c3b3e4c9d49b4418160c9e2bd72b34
+      internalID: -360916135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_171
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 163
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b559eb584df7e664bb4a3d2c7e1269ab
+      internalID: 916454147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_172
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 159
+        width: 4
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 106e1e73697b70c499dd8471f2bc113c
+      internalID: 2078487457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_173
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 158
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec91e8c8c488a04f90e9cafb640370b
+      internalID: -157994894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_174
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 159
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 345119c76abd19d4a964e819ee266128
+      internalID: 493513989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_175
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 159
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef489df0c706074297ecbeef6ca8228
+      internalID: -667068569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_176
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 164
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c4e727e2a9b28743bd364183ceaf2eb
+      internalID: 1925136886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_177
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 163
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83dce5668d390514eb6191ff79e16fe3
+      internalID: 1829099057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_178
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 163
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47fbef6473058248aca64cb7d51e3a2
+      internalID: 1376268617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_179
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 164
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 925b33f9289c38449a9c0e62dd4851ea
+      internalID: -1260563257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_180
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 159
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a56edabfd9c06e449699d46e4c6fb95
+      internalID: -1530153148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_181
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 136
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14482f69c14b539478817b32451079df
+      internalID: 603203462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_182
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 136
+        width: 4
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da5cc755a2b7e04ba225c466dfe733d
+      internalID: -1253638143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_183
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 135
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9373ffb0ba235254a9ea5b0aaaecf300
+      internalID: 1617213782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_184
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 135
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b80aacee6e0131246849c58d2d3af3b7
+      internalID: 911414885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_185
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 135
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d415a8ea674de0c47a26cb22bf6a59cb
+      internalID: -813750305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_186
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 141
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07df4dd65f8685e4fbb983bee687bff4
+      internalID: -1948745528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_187
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 140
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e218a3330e2bc7d4fad795a30289cfc4
+      internalID: 952568317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_188
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 140
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50dcc3f6e53d53343953a73c51e306f1
+      internalID: -1739500011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_189
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 140
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d5f6f5d148dec844b034d95c83c27df
+      internalID: 970104339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_190
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 136
+        width: 5
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda0b8c1ac6068c45ba3f86d94808e7d
+      internalID: 688828764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_191
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 135
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cbec0d6542e8ee4bb88b7bc8424af33
+      internalID: 448938367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_192
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 135
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b8c4a42957c6314096bb7717d3faabd
+      internalID: 1865228950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_193
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 135
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06cd6f94f8c6ad342932c38564ffb274
+      internalID: 1605017147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_194
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 141
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623c7f1dca63f3d49b6b7f9008c7fe20
+      internalID: 984590215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_195
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 140
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d08f7cc68b32074d854821dfe637e89
+      internalID: 763299141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_196
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 140
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a3d481c931ccd41b7fe69f51aa2c51
+      internalID: 737010432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_197
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 140
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e351755d7475d5419e7a3f8ee815822
+      internalID: -649551445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_198
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 136
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c306f9ca0d98ac44c89761d4474f85d1
+      internalID: 1525419092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_199
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 112
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de1d987924eca2a48a3de83a1cf24fc9
+      internalID: -299395718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_200
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 112
+        width: 4
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35bcc4d6db3d83b4098f5b5133d61ad6
+      internalID: -758075431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_201
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 111
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f060a52247ada44b1ca2b41b119ab4
+      internalID: 1386380947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_202
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 111
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb41ef87e5ce7cb4d994ed54b70ee66e
+      internalID: -1659539920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_203
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 111
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2d6a549fb8fb04d9321c4c57529d4a
+      internalID: -2132210378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_204
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 117
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105b4eeb3dacd0c478e26fb38d66e694
+      internalID: -71247595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_205
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 117
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c8b14b517be70d4e80b6770c522adab
+      internalID: -1577791137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_206
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 117
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e8056d378782f42ba9953de582d3b9
+      internalID: 1315201864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_207
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 117
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f29b87a397fc1644a7ccbf9ececde61
+      internalID: -903182621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_208
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 112
+        width: 4
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc5b7ea49dfe32249858f9116a6db252
+      internalID: 2083318158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_209
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 112
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d762dbc8e50a01f408c646af8e1713e3
+      internalID: -1213064585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_210
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 112
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 379b83b53f8a70b4eac8d9a49d4c00b8
+      internalID: -1180444565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_211
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 112
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1273cb8ad3901654abb05596d36f5491
+      internalID: -682894753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_212
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 117
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abbcc5f310ee8134aa09af2ba24b3cbb
+      internalID: 990928755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_213
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 117
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b884ea314f1c7da4fb0fe62d37fa402a
+      internalID: 1380133747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_214
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 117
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d6e572b699f0849b5492166dad8bd1
+      internalID: -145484464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_215
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 117
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddfaed4ac12856c479c8adf26eab4365
+      internalID: 683260440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_216
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 112
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ac8d95e8dee8d4f94f8d1e8d23bb37
+      internalID: -1188055756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_217
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 88
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 912b865a07003f14698abf364c7dee7e
+      internalID: 1642859455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_218
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 88
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd34131780d12b47a2c6e79fe2ae06c
+      internalID: 238114659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_219
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 90
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75292e6fbf0016c439d6cf2c7c03ddf8
+      internalID: 1730934816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_220
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 89
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee4694e349615d44694b468ed6719057
+      internalID: -336141839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_221
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 89
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10af690764e01f24e869ae77caa53396
+      internalID: 49200993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_222
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 89
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14811c7e54a6639468a4d0cf2c95a7f2
+      internalID: 669099348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_223
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 90
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0106480a64d6cae429f9a368d41b49b9
+      internalID: 1409282513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_224
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 89
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e4483b119445d40b51d095ae85dfd9
+      internalID: -1324780327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_225
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 90
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e93af1de30fdc344990ce1679f2b644a
+      internalID: 1125043329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_226
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 89
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9edb0a8ec2c19d743b663803560015ae
+      internalID: -381477509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_227
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 89
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c77013a6de102f4ab441aeea9ee5f53
+      internalID: -140916307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_228
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 93
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e72823f35569e604e96562cde4a4bcbd
+      internalID: -1363921349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_229
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 65
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96bfea0fe412a2a45aaed66b35079b94
+      internalID: 1924556257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_230
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 67
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ef407c45bf399499f14b1172ec1e04
+      internalID: 1122976328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_231
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 68
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c24eb29c5e7f8794c8067491773fea62
+      internalID: 343881602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_232
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 66
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ec02c5d3c486c4aac20d81f82ffb6e
+      internalID: 1721251385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_233
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 67
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9fe02c2fccd264dba7fd64caa77f4b
+      internalID: -823682936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_234
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 66
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e5db21c5acd89941b69300c2a7e9930
+      internalID: -1048694062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_235
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 66
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 103c89cd53518bf45a4e05755489578e
+      internalID: -1721701860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_236
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 66
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab4b23cabc6e7a49b13e795d348398e
+      internalID: -201180707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_237
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 66
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d051fabe430d54cba6f0a5966887cf
+      internalID: -2053687116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_238
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 66
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d565359c1ab5fe468c17bfed33a5fc3
+      internalID: 1798034135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_239
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 66
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0051291d427eaf488b65abe86f9d96f
+      internalID: 1039778948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_240
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 66
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c880ddcf8d602114fb29abbdc5f42741
+      internalID: -256498925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_241
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 65
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 631405dad630a0142b1245b3fac63bca
+      internalID: -1295688210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_242
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 65
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cecf8e07d6d6e047ad9553a0bd55eb9
+      internalID: -500135787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_243
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 66
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4effa71979438d14d94bcd919b6851d5
+      internalID: 1342598987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_244
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 43
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c11ae885ea22374d86f49216a383a14
+      internalID: 733469874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_245
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 42
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7eea2a047618874494e51ba7a7ed35a
+      internalID: -1861217884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_246
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 43
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdef42e61d1fd2341a864cc1073fac0d
+      internalID: 953060751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_247
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 42
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 462aaf9c4985fad4091e75db06e8ec43
+      internalID: -1160200016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_248
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 42
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f8cb2adb0ac304a990f45a247866dc
+      internalID: 1820032727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_249
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 42
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae369e9d15e1914182cbe73a15f2485
+      internalID: 344034594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_250
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 42
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a4d86560e0a2242beda7848870fd3f
+      internalID: -1407851073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_251
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 42
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a4939e1aca89b4eaecea901968ce8a
+      internalID: -1848130121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_252
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 43
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccec81911cf08334f8042c9c105c565b
+      internalID: -357655425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_253
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 44
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 626abb6ba90c10f4dae0b05362a41708
+      internalID: -1012127725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_254
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 43
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe6c16b71900254a94e79c222ecb8af
+      internalID: -728645390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_255
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 43
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2be1f6a11df76b46b40e2021580550c
+      internalID: 1215987618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_256
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 43
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 827c6f378175d6347a83e9a0a815bf01
+      internalID: -2041583871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_257
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 42
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f42be1c817cab846a23460eebbb6535
+      internalID: 656928013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_258
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 42
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7186e00b8a3500441aa056c3b80634ca
+      internalID: 1583122373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_259
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4
+        width: 161
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e33199ae4158cc48a357235f9881858
+      internalID: -1328086502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje Principal_260
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 19
+        width: 39
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b22f7b71e6c6346b5184789ed6ad19
+      internalID: 392814694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Personaje Principal_0: -492688461
+      Personaje Principal_1: 649617771
+      Personaje Principal_10: -1948958717
+      Personaje Principal_100: -743992545
+      Personaje Principal_101: 1489489552
+      Personaje Principal_102: -915378257
+      Personaje Principal_103: -173681059
+      Personaje Principal_104: -2136172607
+      Personaje Principal_105: -901983962
+      Personaje Principal_106: 1179401644
+      Personaje Principal_107: 856897734
+      Personaje Principal_108: 2121591058
+      Personaje Principal_109: -869493964
+      Personaje Principal_11: -213140386
+      Personaje Principal_110: 1169914513
+      Personaje Principal_111: -916226636
+      Personaje Principal_112: 1978816145
+      Personaje Principal_113: 1288082220
+      Personaje Principal_114: 1884443761
+      Personaje Principal_115: 81695358
+      Personaje Principal_116: -1784234974
+      Personaje Principal_117: 648649284
+      Personaje Principal_118: 935003044
+      Personaje Principal_119: -548913231
+      Personaje Principal_12: 2143970094
+      Personaje Principal_120: -1034524921
+      Personaje Principal_121: -442250054
+      Personaje Principal_122: -432839219
+      Personaje Principal_123: -1777421298
+      Personaje Principal_124: 495351101
+      Personaje Principal_125: 806451026
+      Personaje Principal_126: -1535864529
+      Personaje Principal_127: 1556635498
+      Personaje Principal_128: -847669743
+      Personaje Principal_129: 179020329
+      Personaje Principal_13: 1465574463
+      Personaje Principal_130: -1324580355
+      Personaje Principal_131: -245388559
+      Personaje Principal_132: -1279050686
+      Personaje Principal_133: 1988046150
+      Personaje Principal_134: 1632944802
+      Personaje Principal_135: 1482474921
+      Personaje Principal_136: 1940918892
+      Personaje Principal_137: -410883532
+      Personaje Principal_138: -2059607555
+      Personaje Principal_139: 1837257836
+      Personaje Principal_14: -1998220508
+      Personaje Principal_140: -1625356650
+      Personaje Principal_141: 119993556
+      Personaje Principal_142: -734420458
+      Personaje Principal_143: -1387779848
+      Personaje Principal_144: 229335881
+      Personaje Principal_145: -784689466
+      Personaje Principal_146: 513664794
+      Personaje Principal_147: -1672831526
+      Personaje Principal_148: 1960874296
+      Personaje Principal_149: -1931326000
+      Personaje Principal_15: 121603722
+      Personaje Principal_150: -94900417
+      Personaje Principal_151: 791172062
+      Personaje Principal_152: 1648502412
+      Personaje Principal_153: 1867648203
+      Personaje Principal_154: 1815363237
+      Personaje Principal_155: -379729145
+      Personaje Principal_156: 464740763
+      Personaje Principal_157: 1826378269
+      Personaje Principal_158: -1103547376
+      Personaje Principal_159: 1448047756
+      Personaje Principal_16: -1858429039
+      Personaje Principal_160: -431693895
+      Personaje Principal_161: 746376088
+      Personaje Principal_162: -1918574694
+      Personaje Principal_163: -1727389744
+      Personaje Principal_164: 302249465
+      Personaje Principal_165: -1115633494
+      Personaje Principal_166: 1877283565
+      Personaje Principal_167: 395908895
+      Personaje Principal_168: -1494409197
+      Personaje Principal_169: -79503735
+      Personaje Principal_17: -1091707154
+      Personaje Principal_170: -360916135
+      Personaje Principal_171: 916454147
+      Personaje Principal_172: 2078487457
+      Personaje Principal_173: -157994894
+      Personaje Principal_174: 493513989
+      Personaje Principal_175: -667068569
+      Personaje Principal_176: 1925136886
+      Personaje Principal_177: 1829099057
+      Personaje Principal_178: 1376268617
+      Personaje Principal_179: -1260563257
+      Personaje Principal_18: -622846302
+      Personaje Principal_180: -1530153148
+      Personaje Principal_181: 603203462
+      Personaje Principal_182: -1253638143
+      Personaje Principal_183: 1617213782
+      Personaje Principal_184: 911414885
+      Personaje Principal_185: -813750305
+      Personaje Principal_186: -1948745528
+      Personaje Principal_187: 952568317
+      Personaje Principal_188: -1739500011
+      Personaje Principal_189: 970104339
+      Personaje Principal_19: 1355194596
+      Personaje Principal_190: 688828764
+      Personaje Principal_191: 448938367
+      Personaje Principal_192: 1865228950
+      Personaje Principal_193: 1605017147
+      Personaje Principal_194: 984590215
+      Personaje Principal_195: 763299141
+      Personaje Principal_196: 737010432
+      Personaje Principal_197: -649551445
+      Personaje Principal_198: 1525419092
+      Personaje Principal_199: -299395718
+      Personaje Principal_2: -1216946141
+      Personaje Principal_20: -265575181
+      Personaje Principal_200: -758075431
+      Personaje Principal_201: 1386380947
+      Personaje Principal_202: -1659539920
+      Personaje Principal_203: -2132210378
+      Personaje Principal_204: -71247595
+      Personaje Principal_205: -1577791137
+      Personaje Principal_206: 1315201864
+      Personaje Principal_207: -903182621
+      Personaje Principal_208: 2083318158
+      Personaje Principal_209: -1213064585
+      Personaje Principal_21: 1857383240
+      Personaje Principal_210: -1180444565
+      Personaje Principal_211: -682894753
+      Personaje Principal_212: 990928755
+      Personaje Principal_213: 1380133747
+      Personaje Principal_214: -145484464
+      Personaje Principal_215: 683260440
+      Personaje Principal_216: -1188055756
+      Personaje Principal_217: 1642859455
+      Personaje Principal_218: 238114659
+      Personaje Principal_219: 1730934816
+      Personaje Principal_22: -2053459878
+      Personaje Principal_220: -336141839
+      Personaje Principal_221: 49200993
+      Personaje Principal_222: 669099348
+      Personaje Principal_223: 1409282513
+      Personaje Principal_224: -1324780327
+      Personaje Principal_225: 1125043329
+      Personaje Principal_226: -381477509
+      Personaje Principal_227: -140916307
+      Personaje Principal_228: -1363921349
+      Personaje Principal_229: 1924556257
+      Personaje Principal_23: -2046873473
+      Personaje Principal_230: 1122976328
+      Personaje Principal_231: 343881602
+      Personaje Principal_232: 1721251385
+      Personaje Principal_233: -823682936
+      Personaje Principal_234: -1048694062
+      Personaje Principal_235: -1721701860
+      Personaje Principal_236: -201180707
+      Personaje Principal_237: -2053687116
+      Personaje Principal_238: 1798034135
+      Personaje Principal_239: 1039778948
+      Personaje Principal_24: 1484368530
+      Personaje Principal_240: -256498925
+      Personaje Principal_241: -1295688210
+      Personaje Principal_242: -500135787
+      Personaje Principal_243: 1342598987
+      Personaje Principal_244: 733469874
+      Personaje Principal_245: -1861217884
+      Personaje Principal_246: 953060751
+      Personaje Principal_247: -1160200016
+      Personaje Principal_248: 1820032727
+      Personaje Principal_249: 344034594
+      Personaje Principal_25: 1730387866
+      Personaje Principal_250: -1407851073
+      Personaje Principal_251: -1848130121
+      Personaje Principal_252: -357655425
+      Personaje Principal_253: -1012127725
+      Personaje Principal_254: -728645390
+      Personaje Principal_255: 1215987618
+      Personaje Principal_256: -2041583871
+      Personaje Principal_257: 656928013
+      Personaje Principal_258: 1583122373
+      Personaje Principal_259: -1328086502
+      Personaje Principal_26: 620974468
+      Personaje Principal_260: 392814694
+      Personaje Principal_27: 772488460
+      Personaje Principal_28: -915243496
+      Personaje Principal_29: -909475335
+      Personaje Principal_3: -400424968
+      Personaje Principal_30: 878102944
+      Personaje Principal_31: 629054120
+      Personaje Principal_32: -1106832902
+      Personaje Principal_33: 1055627914
+      Personaje Principal_34: 2039503502
+      Personaje Principal_35: 797378699
+      Personaje Principal_36: 1177757870
+      Personaje Principal_37: 2075733547
+      Personaje Principal_38: 1461491988
+      Personaje Principal_39: -203805345
+      Personaje Principal_4: -422517733
+      Personaje Principal_40: -73071537
+      Personaje Principal_41: -1065173040
+      Personaje Principal_42: -2144327593
+      Personaje Principal_43: -1297113110
+      Personaje Principal_44: -1792125410
+      Personaje Principal_45: -498255208
+      Personaje Principal_46: -2143827823
+      Personaje Principal_47: -1588014655
+      Personaje Principal_48: 547534247
+      Personaje Principal_49: 2110213116
+      Personaje Principal_5: -1265517657
+      Personaje Principal_50: 1104836279
+      Personaje Principal_51: -810818982
+      Personaje Principal_52: 1362169451
+      Personaje Principal_53: 1518206879
+      Personaje Principal_54: 188332527
+      Personaje Principal_55: 572762206
+      Personaje Principal_56: -1503728041
+      Personaje Principal_57: 1933452683
+      Personaje Principal_58: -1300248310
+      Personaje Principal_59: 98417755
+      Personaje Principal_6: 540190736
+      Personaje Principal_60: 653825968
+      Personaje Principal_61: 339676981
+      Personaje Principal_62: 1193356431
+      Personaje Principal_63: -1512564758
+      Personaje Principal_64: 1079170781
+      Personaje Principal_65: -773540714
+      Personaje Principal_66: -852749556
+      Personaje Principal_67: -867421860
+      Personaje Principal_68: -993034249
+      Personaje Principal_69: -1670574626
+      Personaje Principal_7: -1635036118
+      Personaje Principal_70: -126286279
+      Personaje Principal_71: -807036519
+      Personaje Principal_72: 963181224
+      Personaje Principal_73: 139798042
+      Personaje Principal_74: 715113858
+      Personaje Principal_75: 1410423159
+      Personaje Principal_76: 1527016401
+      Personaje Principal_77: 1749176842
+      Personaje Principal_78: 121906220
+      Personaje Principal_79: 137805327
+      Personaje Principal_8: -968862589
+      Personaje Principal_80: -582175504
+      Personaje Principal_81: 527406036
+      Personaje Principal_82: -50091857
+      Personaje Principal_83: 25768792
+      Personaje Principal_84: 696586607
+      Personaje Principal_85: -147356113
+      Personaje Principal_86: 1862146315
+      Personaje Principal_87: 575925652
+      Personaje Principal_88: -1527411463
+      Personaje Principal_89: -1542363361
+      Personaje Principal_9: 18606888
+      Personaje Principal_90: 1015535216
+      Personaje Principal_91: -1759067633
+      Personaje Principal_92: -336304002
+      Personaje Principal_93: -1035791037
+      Personaje Principal_94: 1916464419
+      Personaje Principal_95: 660642265
+      Personaje Principal_96: 633633513
+      Personaje Principal_97: 1953729795
+      Personaje Principal_98: -1097363284
+      Personaje Principal_99: 1402562335
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
