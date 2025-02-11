@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 031e772c033f4f94aaaa4c74e9280c8c
+guid: 02e3bec3c6fe14a49b37a758c4f5a01b
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -110,13 +110,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Barra de Resistencia_0
+      name: Perro Muerte_0
       rect:
         serializedVersion: 2
-        x: 16
-        y: 30
-        width: 114
-        height: 18
+        x: 21
+        y: 62
+        width: 194
+        height: 178
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -124,29 +124,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d9a76181490cbc245bff9f9b69b56bcd
-      internalID: -828580966
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Barra de Resistencia_1
-      rect:
-        serializedVersion: 2
-        x: 15
-        y: 0
-        width: 114
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d78bc664407785f40ae5e96d84ac95da
-      internalID: -206898547
+      spriteID: 0c69092f1644eb14dbff99e3bd2e5aeb
+      internalID: 609880331
       vertices: []
       indices: 
       edges: []
@@ -162,8 +141,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Barra de Resistencia_0: -828580966
-      Barra de Resistencia_1: -206898547
+      Perro Muerte_0: 609880331
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

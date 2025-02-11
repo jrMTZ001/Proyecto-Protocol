@@ -34,7 +34,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -43,12 +43,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -72,7 +72,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -108,7 +108,2191 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Enemigo 1 y 2_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 293
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a2b6e2400de170428d18424a4bb2658
+      internalID: -248515757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo 1 y 2_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 294
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b29c43d942e1c479fc953d9af40271
+      internalID: -213925601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo 1 y 2_2
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 293
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 404bb0d1cfbb089409d4b20d4f2a7b94
+      internalID: -1830403668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo 1 y 2_3
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 293
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0702df2cfdac4834ea12ae99ef302985
+      internalID: -281228457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo 1 y 2_4
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 293
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a5951eb3cb13d34fba004c6aba73daf
+      internalID: 201598946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo 1 y 2_5
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 294
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75bbb1af70338ef4fab9913ae25683f1
+      internalID: 824677785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo 1 y 2_6
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 293
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a1dba56d4956394784cee21626da20a
+      internalID: 706170051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo 1 y 2_7
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 293
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a8d0838f9c745647a09b386d2d2bc38
+      internalID: -234917787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo 1 y 2_8
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 293
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5dfb22cf5466cd45a6f24ecf168002f
+      internalID: -1473916272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo 1 y 2_9
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 294
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbbc7fd763ad27941b4067378263dd37
+      internalID: -587118696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo 1 y 2_10
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 293
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86b9a9610c5f8b408846aa754b2cf0c
+      internalID: 1550449470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo 1 y 2_11
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 293
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3354cfca67198174d810f70c9cc9db1a
+      internalID: -148813399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo 1 y 2_12
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 294
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d0b073a7652c194783d844e9e846a55
+      internalID: -493738442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo 1 y 2_13
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 294
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9114110a0584c9146b572eab72f79a71
+      internalID: 375424732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo 1 y 2_14
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 294
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5352699dc216fed44965d92644b75146
+      internalID: -44936627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo 1 y 2_15
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 294
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0b38c763559164ab3025711a35be42
+      internalID: 1227642698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo 1 y 2_16
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 253
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64e5ffd3b480fa4a8b4f7ac6c6a2979
+      internalID: -1309175768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo 1 y 2_17
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 254
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d71fefaaabb5549858abd7918e0710
+      internalID: -466840254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo 1 y 2_18
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 253
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50eb414e38a1d14ea045ced89617c56
+      internalID: 1191221737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo 1 y 2_19
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 253
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8024918fa8183d94f8b755f7632ed470
+      internalID: -1907615801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo 1 y 2_20
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 253
+        width: 11
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c7ae0ce47d03b24f97613cdb4b42203
+      internalID: 934402050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo 1 y 2_21
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 254
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283501c2afa364a42a82b94c330d2395
+      internalID: 117468265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo 1 y 2_22
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 253
+        width: 11
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e509a34ce404d14faf7559ed8ead443
+      internalID: -238088848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo 1 y 2_23
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 253
+        width: 11
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b03d926741d81438ecbe538dbfd9f3
+      internalID: 802188567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo 1 y 2_24
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 253
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731d1c5e5703111499ce9ca7cbc10fe8
+      internalID: 261724815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo 1 y 2_25
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 254
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681feb44b34a4464f9be8d3ad7a39a02
+      internalID: 829278443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo 1 y 2_26
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 253
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ecf8f6a760856f4d97ca201ad936957
+      internalID: -1890846440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo 1 y 2_27
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 253
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e6487e5e93a3734a8909d5f99d4bd29
+      internalID: 47512095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo 1 y 2_28
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 254
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee00de8b1fdd0fa41a130bed7d94a3f6
+      internalID: -1368511483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo 1 y 2_29
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 254
+        width: 11
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 497580b2b97b6594d8edb803f864efd3
+      internalID: 560488585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo 1 y 2_30
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 254
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aaaa64c7fb902d48b91c2138c98734d
+      internalID: 1286775718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo 1 y 2_31
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 254
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a67d62000ad5a4ca471d09663e665b
+      internalID: 174594516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo 1 y 2_32
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 213
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4a912d6c6d5aa41ba85fcde2c6bbe6
+      internalID: -178485790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo 1 y 2_33
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 214
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d9ef29c593eac4f8f8c700613f8c14
+      internalID: -500185732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo 1 y 2_34
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 213
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e98e63bd2b4e82547b8375ab9496636d
+      internalID: 1633738430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo 1 y 2_35
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 213
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b92485fa994ed469824637c1c652ca
+      internalID: 64198661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo 1 y 2_36
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 213
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c553ecd4165e48e4f9cb2bbd8f64b54e
+      internalID: 564022022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo 1 y 2_37
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 214
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e0ace2b0648f0e43bd8878a25528c82
+      internalID: -1091146707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo 1 y 2_38
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 213
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b1b666ee311364aa8ed852c82c2582
+      internalID: 1769458252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo 1 y 2_39
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 213
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7333d61328165e447a0632c20f7d400b
+      internalID: 455986202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo 1 y 2_40
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 213
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b9ba99d8e44b77438ea58744b69620d
+      internalID: -559631731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo 1 y 2_41
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 214
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c462c7a81650449a58a8ca47d34809
+      internalID: 826748337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo 1 y 2_42
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 213
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 084d3d839cabf2f4da886e07cc11b91a
+      internalID: 1869205876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo 1 y 2_43
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 213
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ef867704bb47d41b395d58a49f451f
+      internalID: 936010910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo 1 y 2_44
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 214
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22158709493a52a409d4986fc43acdfd
+      internalID: -431260606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo 1 y 2_45
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 214
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a6407061b843e4885ca7ab693ecf68
+      internalID: 254956988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo 1 y 2_46
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 214
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492e07c6e4929674d90b6a4b9fcec6a2
+      internalID: 276715562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo 1 y 2_47
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 214
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d62521feb8179d44e9aba35fb98a823c
+      internalID: -288078929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo 1 y 2_48
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 174
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f0575290f021a40ad3a5f9b115f361
+      internalID: 1829931486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo 1 y 2_49
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 174
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bec521d7ba90e34287c5a9e5027cb46
+      internalID: 466816089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo 1 y 2_50
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 174
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb35a536a3b3a944a595928511afcfd
+      internalID: -32607850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo 1 y 2_51
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 174
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d0d92666b5fcfe4d9484e9933ba3829
+      internalID: -1374648733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo 1 y 2_52
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 174
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3929dd796aeb35438a1851f8e74b0d5
+      internalID: 1495428328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo 1 y 2_53
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 174
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b15e79e0665ed444dadc57792273d81e
+      internalID: 2132638858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo 1 y 2_54
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 174
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71644e35bc84e9d4c924cd479aa12bcd
+      internalID: -1518606875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo 1 y 2_55
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 186
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ef8636f05d39945978596279a961f2
+      internalID: -2049028687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo 1 y 2_56
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 181
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17030fc805c41f6449e0eed522f1bdfa
+      internalID: 1366267483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo 1 y 2_57
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 181
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f4dd7a588d80f42b62216a90a11938
+      internalID: -362069542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo 1 y 2_58
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 181
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95dd5208a7ecf14ea4426e7a7826cf3
+      internalID: -2014650521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo 1 y 2_59
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 181
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f86766eff411ba4468679622a65b511c
+      internalID: 62603960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo 1 y 2_60
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 180
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f19519d3f9d03094dbc6bbe93db67f5d
+      internalID: -1441736322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo 1 y 2_61
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 183
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4132a9123d40d704ca25a0ef49d32e3a
+      internalID: 1338243087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo 1 y 2_62
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 181
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4262edfa74958b244af4e5d47c3f0e12
+      internalID: -263351440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo 1 y 2_63
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 185
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3876373ffd4de1b49b767c207f2327cf
+      internalID: 375008986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo 1 y 2_64
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 109
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d834ae188b34e2640bd8d8538d862faf
+      internalID: 446413905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo 1 y 2_65
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 101
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e94b3bd5a430f4bbd4cc1c6569aec4
+      internalID: 361849818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo 1 y 2_66
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 101
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb54a31476feb3948ae6fc1169179cce
+      internalID: 851676599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo 1 y 2_67
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 101
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 679a55c889763d64d8321919c5c4f560
+      internalID: -456266341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo 1 y 2_68
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 101
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592b1f8f6e5999649981293cda173776
+      internalID: -1933246265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo 1 y 2_69
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 101
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71a64ba479708e44a4d34eb0167f8ea
+      internalID: 329278051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo 1 y 2_70
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 100
+        width: 32
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ec3f75b8974fb4d85db4710c37978a
+      internalID: -683723574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo 1 y 2_71
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 101
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d6ed39a4c773849bc39ab97a609594
+      internalID: -204109896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo 1 y 2_72
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 101
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47111cb51dbe079449652b3b835e8b2d
+      internalID: -1396670503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo 1 y 2_73
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 78
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acccedeb81d95a44f8d5fb5cb32fd939
+      internalID: -1416433470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo 1 y 2_74
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 77
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be0fd0ab1012aa429c1cbba2066d083
+      internalID: -1806303275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo 1 y 2_75
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 80
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aad46259c432ed458c4ca2a3b3b3310
+      internalID: -1178242091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo 1 y 2_76
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 81
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c718831188b734d9f8b7089cc2ae6b
+      internalID: -1020975218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo 1 y 2_77
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 77
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b27900dc4ba2aaf4b9b2e95676b108de
+      internalID: -2103666925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo 1 y 2_78
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 77
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a62691e03ffac246a7b433d3d54e620
+      internalID: 1557018419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo 1 y 2_79
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 80
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f873037fb32d0f34bb9470c48bd7de51
+      internalID: 148867327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo 1 y 2_80
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 81
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b537560d859058c4cba38f708e3ffce7
+      internalID: 1277171731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo 1 y 2_81
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 77
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a54c6baa6d191b4b90f73fb6ff2b03b
+      internalID: 1115891064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo 1 y 2_82
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 77
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca2a7b21f45a30f43ae0f193a0085fbb
+      internalID: 1895441134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo 1 y 2_83
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 77
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80bf8eb3bdbc90f488f3f9230f18873b
+      internalID: 1495487459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo 1 y 2_84
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 76
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ecfb0367b0a864d8cf3cba4b8ff2b3
+      internalID: 1501500326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo 1 y 2_85
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 45
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024956d59e0bb104c88a5c09b23b774e
+      internalID: 320095182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo 1 y 2_86
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 45
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0bc09cba0290b44d87d04aaa3de2776
+      internalID: -215117129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo 1 y 2_87
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 51
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d98934fd8d4261c40bb88c9765e23d0d
+      internalID: 240343471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo 1 y 2_88
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 45
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 656c1e9657497f74bba132df0ca6476b
+      internalID: 1773113540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo 1 y 2_89
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 46
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7415bdfa7ec0893458490ee38704b28a
+      internalID: 32383565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo 1 y 2_90
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 48
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92ab7bb64d6212468baaf672d907511
+      internalID: 218029539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo 1 y 2_91
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 49
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d1533a55c8b3b4aba6ed82a8e7598f
+      internalID: 306371634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo 1 y 2_92
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 45
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7f8b3e7e4ab8a47a0aab8a82250312
+      internalID: 216582116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo 1 y 2_93
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 42
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156273e063e06a643adba3e280987688
+      internalID: 865602836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo 1 y 2_94
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 42
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a42913c1aea0342a27370afab5af77
+      internalID: 271300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo 1 y 2_95
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 39
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 844b123795732174ea0133520c47eb9c
+      internalID: -1890003273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo 1 y 2_96
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 45
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d2cdfac82771d4c92d95c62ee561da
+      internalID: -67696466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo 1 y 2_97
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 5
+        width: 83
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 999ae833608b0644ea247490c1cec5c7
+      internalID: 1797930025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo 1 y 2_98
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 21
+        width: 24
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a019c12bb6569d749bfc04e4a9fd859a
+      internalID: -892267162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo 1 y 2_99
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 21
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c33af6a058f82bb47993507cdb9dcc30
+      internalID: 475302343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo 1 y 2_100
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 20
+        width: 40
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d77cce13c0c4ef94fa7066ba072d139a
+      internalID: 450646166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo 1 y 2_101
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 5
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aabac499b8b9bc14fbfc7bd5f102dd37
+      internalID: 179665981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo 1 y 2_102
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 5
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed226b6a8241c9d4dac8abc2aaec7849
+      internalID: 237302229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo 1 y 2_103
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 5
+        width: 79
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5fa85c868805c84a92b0f9b17a05aaa
+      internalID: -803149015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -119,7 +2303,111 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Enemigo 1 y 2_0: -248515757
+      Enemigo 1 y 2_1: -213925601
+      Enemigo 1 y 2_10: 1550449470
+      Enemigo 1 y 2_100: 450646166
+      Enemigo 1 y 2_101: 179665981
+      Enemigo 1 y 2_102: 237302229
+      Enemigo 1 y 2_103: -803149015
+      Enemigo 1 y 2_11: -148813399
+      Enemigo 1 y 2_12: -493738442
+      Enemigo 1 y 2_13: 375424732
+      Enemigo 1 y 2_14: -44936627
+      Enemigo 1 y 2_15: 1227642698
+      Enemigo 1 y 2_16: -1309175768
+      Enemigo 1 y 2_17: -466840254
+      Enemigo 1 y 2_18: 1191221737
+      Enemigo 1 y 2_19: -1907615801
+      Enemigo 1 y 2_2: -1830403668
+      Enemigo 1 y 2_20: 934402050
+      Enemigo 1 y 2_21: 117468265
+      Enemigo 1 y 2_22: -238088848
+      Enemigo 1 y 2_23: 802188567
+      Enemigo 1 y 2_24: 261724815
+      Enemigo 1 y 2_25: 829278443
+      Enemigo 1 y 2_26: -1890846440
+      Enemigo 1 y 2_27: 47512095
+      Enemigo 1 y 2_28: -1368511483
+      Enemigo 1 y 2_29: 560488585
+      Enemigo 1 y 2_3: -281228457
+      Enemigo 1 y 2_30: 1286775718
+      Enemigo 1 y 2_31: 174594516
+      Enemigo 1 y 2_32: -178485790
+      Enemigo 1 y 2_33: -500185732
+      Enemigo 1 y 2_34: 1633738430
+      Enemigo 1 y 2_35: 64198661
+      Enemigo 1 y 2_36: 564022022
+      Enemigo 1 y 2_37: -1091146707
+      Enemigo 1 y 2_38: 1769458252
+      Enemigo 1 y 2_39: 455986202
+      Enemigo 1 y 2_4: 201598946
+      Enemigo 1 y 2_40: -559631731
+      Enemigo 1 y 2_41: 826748337
+      Enemigo 1 y 2_42: 1869205876
+      Enemigo 1 y 2_43: 936010910
+      Enemigo 1 y 2_44: -431260606
+      Enemigo 1 y 2_45: 254956988
+      Enemigo 1 y 2_46: 276715562
+      Enemigo 1 y 2_47: -288078929
+      Enemigo 1 y 2_48: 1829931486
+      Enemigo 1 y 2_49: 466816089
+      Enemigo 1 y 2_5: 824677785
+      Enemigo 1 y 2_50: -32607850
+      Enemigo 1 y 2_51: -1374648733
+      Enemigo 1 y 2_52: 1495428328
+      Enemigo 1 y 2_53: 2132638858
+      Enemigo 1 y 2_54: -1518606875
+      Enemigo 1 y 2_55: -2049028687
+      Enemigo 1 y 2_56: 1366267483
+      Enemigo 1 y 2_57: -362069542
+      Enemigo 1 y 2_58: -2014650521
+      Enemigo 1 y 2_59: 62603960
+      Enemigo 1 y 2_6: 706170051
+      Enemigo 1 y 2_60: -1441736322
+      Enemigo 1 y 2_61: 1338243087
+      Enemigo 1 y 2_62: -263351440
+      Enemigo 1 y 2_63: 375008986
+      Enemigo 1 y 2_64: 446413905
+      Enemigo 1 y 2_65: 361849818
+      Enemigo 1 y 2_66: 851676599
+      Enemigo 1 y 2_67: -456266341
+      Enemigo 1 y 2_68: -1933246265
+      Enemigo 1 y 2_69: 329278051
+      Enemigo 1 y 2_7: -234917787
+      Enemigo 1 y 2_70: -683723574
+      Enemigo 1 y 2_71: -204109896
+      Enemigo 1 y 2_72: -1396670503
+      Enemigo 1 y 2_73: -1416433470
+      Enemigo 1 y 2_74: -1806303275
+      Enemigo 1 y 2_75: -1178242091
+      Enemigo 1 y 2_76: -1020975218
+      Enemigo 1 y 2_77: -2103666925
+      Enemigo 1 y 2_78: 1557018419
+      Enemigo 1 y 2_79: 148867327
+      Enemigo 1 y 2_8: -1473916272
+      Enemigo 1 y 2_80: 1277171731
+      Enemigo 1 y 2_81: 1115891064
+      Enemigo 1 y 2_82: 1895441134
+      Enemigo 1 y 2_83: 1495487459
+      Enemigo 1 y 2_84: 1501500326
+      Enemigo 1 y 2_85: 320095182
+      Enemigo 1 y 2_86: -215117129
+      Enemigo 1 y 2_87: 240343471
+      Enemigo 1 y 2_88: 1773113540
+      Enemigo 1 y 2_89: 32383565
+      Enemigo 1 y 2_9: -587118696
+      Enemigo 1 y 2_90: 218029539
+      Enemigo 1 y 2_91: 306371634
+      Enemigo 1 y 2_92: 216582116
+      Enemigo 1 y 2_93: 865602836
+      Enemigo 1 y 2_94: 271300130
+      Enemigo 1 y 2_95: -1890003273
+      Enemigo 1 y 2_96: -67696466
+      Enemigo 1 y 2_97: 1797930025
+      Enemigo 1 y 2_98: -892267162
+      Enemigo 1 y 2_99: 475302343
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

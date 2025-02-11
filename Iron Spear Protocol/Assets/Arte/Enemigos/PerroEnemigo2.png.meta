@@ -34,7 +34,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -43,12 +43,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -72,7 +72,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -108,7 +108,742 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: PerroEnemigo2_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 473
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da32d380743d8fe48b70d9ec6146cfd8
+      internalID: -1000006752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PerroEnemigo2_1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 473
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd70b3d92a163444b1969637e812e6e
+      internalID: 184032870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PerroEnemigo2_2
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 473
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 176029e1ebc8a99478eb7c7befc8cf59
+      internalID: 1477032670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PerroEnemigo2_3
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 473
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5b71926f23a4044bea89ba5dc0ba2a
+      internalID: 1735541139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PerroEnemigo2_4
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 414
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8255eb3df38539c40a04d4d3dc6b23de
+      internalID: 974969506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PerroEnemigo2_5
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 414
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc2756224a52194a9b93d217cd1b5cc
+      internalID: 1511055651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PerroEnemigo2_6
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 417
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0313e3afaada8404b959ef4687ea5c96
+      internalID: -1881198835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PerroEnemigo2_7
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 414
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238bab1d83450d74da91fabdf7586cc8
+      internalID: -1784434812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PerroEnemigo2_8
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 358
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d084512f2e5370442b8f6311eab947f0
+      internalID: 1277245303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PerroEnemigo2_9
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 356
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c49e57af0e3ac46a6307f90c704a20
+      internalID: 612637334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PerroEnemigo2_10
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 355
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da24e0e728838024baf34ea16009d47e
+      internalID: -2073043438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PerroEnemigo2_11
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 358
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31045ec56cc01a1468f526a0cb736738
+      internalID: 83395203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PerroEnemigo2_12
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 355
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1852afa508b3cd41a3489d7ae055bd6
+      internalID: 1293546969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PerroEnemigo2_13
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 297
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104120032b875734ea8aa19461365959
+      internalID: -1526467089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PerroEnemigo2_14
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 297
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5cf70c52af64f54c914d9d4045910ea
+      internalID: -438733912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PerroEnemigo2_15
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 297
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73432657eecab24c9544ede95945c0d
+      internalID: -506340432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PerroEnemigo2_16
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 298
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f8aecab3b976e42bae4e0cd8f5f048
+      internalID: 478115323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PerroEnemigo2_17
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 237
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b94f9d80ecbbab24a993d3850c34e98d
+      internalID: -444161061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PerroEnemigo2_18
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 237
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d224ca799c6484fa418402df47cb6b
+      internalID: -981108806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PerroEnemigo2_19
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 237
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 453616be7026ee5468860fd1356d010b
+      internalID: -897619394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PerroEnemigo2_20
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 237
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4056d77aacd5cc744ad60459bd64d428
+      internalID: -555056511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PerroEnemigo2_21
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 179
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1728d4a9f83e4194e911bfc58e7e1f3a
+      internalID: -1326839956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PerroEnemigo2_22
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 180
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bfd03d6c73f104458104a07a83bdfb8
+      internalID: 1001142518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PerroEnemigo2_23
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 179
+        width: 47
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a463574fddb6b4ebec8713b89026e2
+      internalID: 486412780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PerroEnemigo2_24
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 179
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee4df4f295d7d774ea767a0eba8b3e72
+      internalID: -723124638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PerroEnemigo2_25
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 120
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d0e6a8fe2eb97c41b5d6bd6b36f864a
+      internalID: -1572492959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PerroEnemigo2_26
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 120
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 715e92ccb654e7e41952a516b9aaebc6
+      internalID: 1649991174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PerroEnemigo2_27
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 120
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d2a7a3b8e1fc8b4198c3ba1759fc75c
+      internalID: -83927447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PerroEnemigo2_28
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 120
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e66c7ef7450e584c96a2fb7c810e820
+      internalID: -3245747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PerroEnemigo2_29
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 61
+        width: 51
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 520a1faac417a5b4d93fcf6d6472d4e9
+      internalID: 1064111874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PerroEnemigo2_30
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 61
+        width: 51
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 157a57e67519e1943b43f3b711c841b3
+      internalID: 1240230828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PerroEnemigo2_31
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 60
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a5756e517626ef47bc75303f0ab6bdd
+      internalID: 1282663248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PerroEnemigo2_32
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 6
+        width: 51
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feba940d234c8614ab589f59c617c66b
+      internalID: 1479516887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PerroEnemigo2_33
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 4
+        width: 51
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d43dc6a15da143f418c43da33b84e53e
+      internalID: 1612671898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PerroEnemigo2_34
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 5
+        width: 54
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e89c5b468bafca46ac78f2b94bbc92c
+      internalID: -195595910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -119,7 +854,42 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      PerroEnemigo2_0: -1000006752
+      PerroEnemigo2_1: 184032870
+      PerroEnemigo2_10: -2073043438
+      PerroEnemigo2_11: 83395203
+      PerroEnemigo2_12: 1293546969
+      PerroEnemigo2_13: -1526467089
+      PerroEnemigo2_14: -438733912
+      PerroEnemigo2_15: -506340432
+      PerroEnemigo2_16: 478115323
+      PerroEnemigo2_17: -444161061
+      PerroEnemigo2_18: -981108806
+      PerroEnemigo2_19: -897619394
+      PerroEnemigo2_2: 1477032670
+      PerroEnemigo2_20: -555056511
+      PerroEnemigo2_21: -1326839956
+      PerroEnemigo2_22: 1001142518
+      PerroEnemigo2_23: 486412780
+      PerroEnemigo2_24: -723124638
+      PerroEnemigo2_25: -1572492959
+      PerroEnemigo2_26: 1649991174
+      PerroEnemigo2_27: -83927447
+      PerroEnemigo2_28: -3245747
+      PerroEnemigo2_29: 1064111874
+      PerroEnemigo2_3: 1735541139
+      PerroEnemigo2_30: 1240230828
+      PerroEnemigo2_31: 1282663248
+      PerroEnemigo2_32: 1479516887
+      PerroEnemigo2_33: 1612671898
+      PerroEnemigo2_34: -195595910
+      PerroEnemigo2_4: 974969506
+      PerroEnemigo2_5: 1511055651
+      PerroEnemigo2_6: -1881198835
+      PerroEnemigo2_7: -1784434812
+      PerroEnemigo2_8: 1277245303
+      PerroEnemigo2_9: 612637334
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

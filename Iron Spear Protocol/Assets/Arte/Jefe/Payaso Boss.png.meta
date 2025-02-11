@@ -1,0 +1,5869 @@
+fileFormatVersion: 2
+guid: 2f149daf40be52d48b15d99741dd9d0d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Payaso Boss_0
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 526
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a1927476458ffc4496a0bfeaae9e651
+      internalID: 1251847750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_1
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 526
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d9a213adfa16a847b5cb282e7729093
+      internalID: -221475051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_2
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 525
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c6bff324dd4b74d8ac8c51d480f1c0
+      internalID: -325555536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_3
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 525
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a88bdccad42124340a5364dc72bb7428
+      internalID: 1577743968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_4
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 526
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a268132cd02a05448f05510c4a600a7
+      internalID: -549780870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_5
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 525
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb49d0229f4fc294bb14ed23bca77efe
+      internalID: 140430394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_6
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 526
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cfe484ff256b1c44b56c77c023dcfa2
+      internalID: 492798064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_7
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 526
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd02d06e64354e4468ce838cdc43bf73
+      internalID: -241643716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_8
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 526
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 052aab1aff8f06349b75d4fb6d38ea7b
+      internalID: 1020876932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_9
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 526
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e970bdefcaa4ac4dbb4b94719f9a247
+      internalID: 717050644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_10
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 526
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f212962e5c4b3145bfe92a792a5a66b
+      internalID: 642239958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_11
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 526
+        width: 9
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae2b92e460d23fa4bb758f6b13bca3c6
+      internalID: -307327278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_12
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 525
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf0c24f6989a0e43b0248997e182f05
+      internalID: -1577956477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_13
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 526
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae8e315c7106a143a17d037aaaf8c28
+      internalID: 890536532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_14
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 526
+        width: 9
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ebfba4d83dfafd42942ae791f6d0f73
+      internalID: 1346833558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_15
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 525
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547702631787d7e4fbafb1be235e1a38
+      internalID: -910870159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_16
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 486
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c54c0752d652ec649a1a49f809d2f036
+      internalID: -381185788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_17
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 486
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f0b2562975b9f4eb4715f8ffb24ba7
+      internalID: 145368511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_18
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 486
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57684c380e6581c4fada2593c5e48b22
+      internalID: -185871722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_19
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 486
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817f3b30c172587428b7a2d892fc01cf
+      internalID: 55379319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_20
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 488
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aace162ae816944a84cc226bca81383
+      internalID: -1056181622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 487
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43afb11df9271834fa3469a4748e89de
+      internalID: 378405591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_22
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 489
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5151d8b240c72ca439e5d399ecbb832b
+      internalID: -1129036716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_23
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 487
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e14f113e204cd1940a6c4304701585bd
+      internalID: 190990851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_24
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 487
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 888b75c66cb3e714bb4680045e29636e
+      internalID: -733823636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_25
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 489
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6d3678f7977d54e8f4f1ec7d3a60f6
+      internalID: -923463466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_26
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 487
+        width: 11
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6374063bbbb2774e8496aa56a28badb
+      internalID: 160933138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_27
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 489
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c7fa4acea51aa418e04a55524e4042
+      internalID: 365768682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_28
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 489
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a4ee220ba3d7274da27ffd6ebec1f0d
+      internalID: 1677748401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_29
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 490
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee6dae125305714abdf1e0d59455379
+      internalID: -592109386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_30
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 490
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6323ed79c5d8e68429dd6591e05b2527
+      internalID: -809219130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_31
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 489
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 680dacca3fbb93a49ae8c0457509d789
+      internalID: 1775240743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_32
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 451
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b9166ba1a6635e45b5c82ae4a4814bb
+      internalID: 1259391721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_33
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 449
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f50e69ed44bc9dc41abdcef260d0ae8f
+      internalID: -1419140476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_34
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 455
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04bb4b6fabbc47743ad785811baaf625
+      internalID: -1032351252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_35
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 455
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5942913e1c57c6544ba07ea0dc88840b
+      internalID: -1802581735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_36
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 455
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5519d5b2e1e1814eadf712f622002cb
+      internalID: -2032373856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_37
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 455
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312267a4853c4034c8293e6ad1172128
+      internalID: -361987266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_38
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 455
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46466bdb81ea2af40a5aaba2a98edc8c
+      internalID: -1790859370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_39
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 455
+        width: 31
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1bdc59a0d8a044499e7a0124b7937a3
+      internalID: 1935211816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_40
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 458
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2641122664aa06e49978b22c6cfbeb91
+      internalID: -394025897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_41
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 455
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46931164844531e42b3dcb86e5287b2d
+      internalID: -1251788328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_42
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 455
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c9168a0af5eff245b21a32ff5f37b85
+      internalID: -2110792701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_43
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 455
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e906c2e8b73503741a8e008c0919af48
+      internalID: -817634168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_44
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 449
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eb3a11bdaba1db409f9226d25d79045
+      internalID: -662302439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_45
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 408
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 602fb4f8d30e8d443b483a7de560de3d
+      internalID: -853586742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_46
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 408
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3620cf7ca6f9cb447be11f48817cadec
+      internalID: -604449218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_47
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 408
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ca4b71e30aa5247842b8e18048027d
+      internalID: -1512463579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_48
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 408
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef6446241718014db6b255af35fed04
+      internalID: 622386576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_49
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 408
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b5dd8beddb8b0488550ea9a54a85a6
+      internalID: 533196035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_50
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 410
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73003ed817227542af54c6f5cd48799
+      internalID: -311681979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_51
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 408
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 365097e89486e2349a0a7cfdcae29b1b
+      internalID: 655818879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_52
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 409
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711dec2530a202f4ba83b9d8c397838b
+      internalID: -1615493765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_53
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 408
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f960cc650ce5bdc4ebaf8a49636f2b84
+      internalID: -601758781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_54
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 411
+        width: 11
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd01db51372b1e14cae4474b5b3449a1
+      internalID: 1732376774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_55
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 408
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e5eb91c31a72b4aa3bb63e7d95d320
+      internalID: 1641983899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_56
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 408
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab79480eafb5a7f408eb7fc5704dec9e
+      internalID: 584833359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_57
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 408
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1edf2554a575ea24abdb52ad63b64631
+      internalID: 1450433547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_58
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 408
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ec80f1d0c0fd44eb3437ba8b6fb694
+      internalID: -1577414259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_59
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 409
+        width: 11
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc3cca15683e05c4982a897f62b44cfd
+      internalID: -1773476988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_60
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 409
+        width: 10
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd25e082bab8ce4f8c227151baadaa3
+      internalID: -54469139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_61
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 355
+        width: 54
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5642c8a7abe7b5b42b07d6a306ad2002
+      internalID: 2084820585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_62
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 357
+        width: 54
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34bb9b89dc72ca745b0f8f88dc3e5c98
+      internalID: 616772582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_63
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 384
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e452b09502a9fa47a80e289fe363985
+      internalID: 1398884854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_64
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 377
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1fdae1c3ce57d349a7cad3d9028d3f9
+      internalID: 805856876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_65
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 378
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9771fcd81f5de774cb7d84d75c5f28ad
+      internalID: 1282736989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_66
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 377
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f677c01a946dc4d8c50d4f1e57168d
+      internalID: -271953784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_67
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 384
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d1c5ef811e23344a0f8bd2b5bdf7bf
+      internalID: -1673732668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_68
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 384
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1d3de437aee4544b6410f3f136915e
+      internalID: 462438930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_69
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 384
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d66b64325f568645a3281b2b3ea58c0
+      internalID: 1277321122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_70
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 361
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f21cea53552ce48951f9ab500c2834
+      internalID: -63759869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_71
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 360
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 164b6e24aae93714e8ed37bd3625a57e
+      internalID: 1092988146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_72
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 353
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d576dc9f99d469a498dbb7b05cedb01f
+      internalID: -457204784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_73
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 355
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d61df9a7eaf9c1a49a81168595bff4b9
+      internalID: -1226806925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_74
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 356
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae9565f6f737f849b0a3e995ee6117c
+      internalID: -1158002342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_75
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 355
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21986f03f5332f4e8a3dfc620fbe76f
+      internalID: -276657736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_76
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 357
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf3c4fccf57e1440a155b4a8b204813
+      internalID: -57527917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_77
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 330
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a20fe4bdaca825843908591105136879
+      internalID: 1485589071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_78
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 330
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d66917cef05fd429f46475b8016246
+      internalID: -1265854735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_79
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 330
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9060bf3a7ec793439bd4a074a18d3dc
+      internalID: 560417911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_80
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 330
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5291486748bb7f748ae24bd2da0b4d75
+      internalID: -179034408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_81
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 330
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e579ba2ce6eccd84d97532eadece6932
+      internalID: 2027719036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_82
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 334
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 013e245b313bdaa48b4c5e88dd4377fe
+      internalID: 1636342542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_83
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 330
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c6c8e82e63afb4b9990392eace2527
+      internalID: -2028088826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_84
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 335
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e93f01536b7e5c64289cd0124b3b4536
+      internalID: -1514857090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_85
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 334
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 580dcdbbfcd8f5447a39b401af438da6
+      internalID: -1153018841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_86
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 334
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c40fc2ea8083e459c03bf9f5400f05
+      internalID: -1695480014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_87
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 333
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f35fcd3008f9f479aec2872a01a6fc
+      internalID: -608313466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_88
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 334
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60689dc6f248f1b42bd26ff2b42c67ab
+      internalID: -17630312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_89
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 332
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a91bff3351c2746a1e8febf9cc13b1
+      internalID: -1647008605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_90
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 330
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e8b67e46eb094439d73b0bf1e18206
+      internalID: 1878922196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_91
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 330
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ed351598b14204b9cb542099b0d3f0
+      internalID: 1636346956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_92
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 309
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b09dcca454bae247ac6cc08a9ccbc7a
+      internalID: 1714821716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_93
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 309
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba8f6e41392261d418149a011a1ae49f
+      internalID: 646414984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_94
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 312
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01464af8ed822014f8e626c920fafb5a
+      internalID: 1668971623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_95
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 313
+        width: 15
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfeb9244a8af0aa43bdbdd611fdecb52
+      internalID: 1600456427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_96
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 308
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3efd97c314c95c5479610271c92fef1b
+      internalID: -1497474727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_97
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 309
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26870853cadde0f4eaf90d9dcf66a12c
+      internalID: -1835048244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_98
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 313
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95aa9828fa361c14a846bb93ee0c8c73
+      internalID: 1010144486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_99
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 313
+        width: 15
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f733f728d546354ca63998aa56359ca
+      internalID: -693162368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_100
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 306
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b81c220dbcff5458ab7540c543be72
+      internalID: -274414273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_101
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 309
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91340acbfa350d2469daeb4ed948a6ac
+      internalID: -1523543559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_102
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 309
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 259076ba900280543b9c8cdeed8ad7b0
+      internalID: -40912454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_103
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 310
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39fa69a16d607b4418e1c2ca417ac09b
+      internalID: -36522840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_104
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 310
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265ecba2dcb7b9544bdc74a753c8a80f
+      internalID: -2113190842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_105
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 309
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c312f8dfdea082458d3915b5298a8c4
+      internalID: -1038142957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_106
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 309
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8618d30884fad944ac58b88a83f6dd3
+      internalID: -1160957398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_107
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 309
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39644ab2cbe4ad441a3ae1d30cd7f13f
+      internalID: 490625238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_108
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 268
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bee2f680c4ac5b4d9a20d88f4dac7ae
+      internalID: -116091664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_109
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 268
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5915d398a741a74eb97d5103c8db299
+      internalID: -1930168895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_110
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 268
+        width: 11
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b680bf5cef4fbdd4db7e60be2491384d
+      internalID: -201569758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_111
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 269
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3664f374792568b4398f8448f3d6c29e
+      internalID: -206386728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_112
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 268
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95460fb5be18fa448ae83852a4a628d
+      internalID: -92937792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_113
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 268
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506d630e542543f49af7be147fec3797
+      internalID: -631358962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_114
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 268
+        width: 11
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f3468402a4ab747a145fdd636d353a
+      internalID: 793788980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_115
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 268
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef25e1e001198a2419358a3120b09c2e
+      internalID: -1304851039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_116
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 231
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee2490040511a314c8c085ab5744ded4
+      internalID: -1975154321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_117
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 230
+        width: 11
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8af79ee20e615d4cb113221aa1ff347
+      internalID: 1872995643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_118
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 231
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d3cb6fca8572745a2e576b289cdd87
+      internalID: -938257139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_119
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 230
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d377f9ff050054782b7e93aedc1e3b
+      internalID: -2143854379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_120
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 231
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1938e20805507954f8f514c0060ec326
+      internalID: 130451854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_121
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 231
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03487e5af35a19d46a9c5d54838f308b
+      internalID: -1788759719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_122
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 232
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb2b823bf167c048adc8f30de55e8fa
+      internalID: -1270453836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_123
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 231
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57cfa863d542488449d61210981022fb
+      internalID: -1325748991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_124
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 237
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e91d75defb4e54c82cb794c87a61b5
+      internalID: 529733757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_125
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 230
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e646743837b0e4ba1252677a9de658
+      internalID: -1001055301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_126
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 233
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f17656102984b46aee225e6f2e49d3
+      internalID: -140739435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_127
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 230
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f8e412cf66560c48a494386eda07331
+      internalID: 212203745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_128
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 206
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74006af7e4103624fa1f752bf0bc2a45
+      internalID: 2122540393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_129
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 206
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cadfc9d7d7cb25c43a8fdba5261fffb8
+      internalID: 1470975604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_130
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 206
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d893b7a2e8a0049a16fbc1fe509a2e
+      internalID: -1816611608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_131
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 206
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1fef00ef41cc3545a48f7c2f5bb4647
+      internalID: 1274569386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_132
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 206
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b350c81dd0f4aab45a5d6287104fbc55
+      internalID: -549830110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_133
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 207
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a2fedd7aec14f940b214a8a874ccc29
+      internalID: -1532727878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_134
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 206
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17fe4c0635bb2564698fd92a5c598b59
+      internalID: 1667059397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_135
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 206
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a59d4754aff94c46a02b8818134ab8a
+      internalID: 1008507020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_136
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 208
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d82611aa06d18a644bc2aa28425113e4
+      internalID: -268839767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_137
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 207
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e08c887b869af54f9681763999d4966
+      internalID: 755898852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_138
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 206
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18dc92433304f854eb869c5b12b6b814
+      internalID: 346961817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_139
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 207
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a2dce102c0beef4eb9da930a5074361
+      internalID: -1294999383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_140
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 208
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a212bb288ed7c841807210aed3d2aa2
+      internalID: 1302546110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_141
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 208
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66c9b6a31c58744e83b54325f23f470
+      internalID: 1179511315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_142
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 206
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f54d1218f36364f9740673e5d60b2a
+      internalID: 1240445344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_143
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 207
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b939e147171be4c448bc399924327595
+      internalID: 2059073768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_144
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 210
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c16980bc1c2bf9c4a81fa8cf5b02fc30
+      internalID: 2060189906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_145
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 211
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b8fabc278d881439267e71e91cea14
+      internalID: -631293635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_146
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 211
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66890e848fed9d146a240a64bcdbb3af
+      internalID: -1148499245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_147
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 183
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dab5061bf46745498cc72821c69e2b6
+      internalID: 1473367108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_148
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 182
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ed668625cacaa4c977105e4930e725
+      internalID: -2046713377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_149
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 182
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ecdaaa65dea6eb4597a585e93c35e78
+      internalID: -2045981369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_150
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 182
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e2abdbc851fcd41b37d5c3632f8c41
+      internalID: 525081107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_151
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 183
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 800ff0198bfd1a046bab68b1e558b6f5
+      internalID: -638217040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_152
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 182
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e82e5292a047b4da946182460d190a
+      internalID: 1400624878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_153
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 182
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18c5f01d80af544cb10028938dcc8e8
+      internalID: -1732686819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_154
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 182
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f3a94075b2c0ec4e9bf1f43cbec701e
+      internalID: -1174379352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_155
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 183
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d0c96a3bdfbd945aa562a5f8dbf43b
+      internalID: 626795384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_156
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 183
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 294b7a4dac11bf648bc0aa00af08a1e5
+      internalID: -1199255998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_157
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 182
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361b3137f991fff459def5e393d27fd9
+      internalID: 248340592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_158
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 183
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a6a300a51b2576439bbb603f6014946
+      internalID: 619998510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_159
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 183
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73277b2e584fd044583204809da5a9fb
+      internalID: 707033870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_160
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 183
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 910bf7e44eb69cc4685a655598fd3e2c
+      internalID: -897334874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_161
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 182
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d63ce0d1f4fc3264d9176bfdeb910fe8
+      internalID: 407833289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_162
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 183
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f761a02ca2f3b4c926b39988a43676
+      internalID: 1456528048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_163
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 159
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea2d9c8ff6b78a419b9443666b21465
+      internalID: 1199170172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_164
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 159
+        width: 5
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a19e6db12f5d393408bfa5633a3e1888
+      internalID: -29928317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_165
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 158
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eaf4d105764fd442b8a2aea096de19a
+      internalID: 377223213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_166
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 158
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0fcdce2e25186e4dacdd3878dbc9f29
+      internalID: -879131831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_167
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 158
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf3629ca900fd347b862930b8337b93
+      internalID: 1104704708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_168
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 164
+        width: 15
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 277aa19a5611355419f0a73db65a69a5
+      internalID: 704120865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_169
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 164
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e6ebceb934bc74ca8d510c2d11a386
+      internalID: 2070670116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_170
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 164
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b09b3f64d195e408ad15b801bd6cae
+      internalID: -859160028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_171
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 163
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d21c545071bcd0a49baa2bb926bb294e
+      internalID: 1720724753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_172
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 159
+        width: 4
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 116ef8fa81d2bec42974f4eb68641912
+      internalID: -330639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_173
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 158
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f874b9ec3d6544aa4e22bd17322de1
+      internalID: -662641760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_174
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 159
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4736555ce6963f64ab130a860ea6e5c8
+      internalID: 1631044536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_175
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 159
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172e298230cee5240b0e5f6aa8b0dc5b
+      internalID: -1042645484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_176
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 164
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a26f6f61efcfe1439117e4f60232c85
+      internalID: -714342890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_177
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 163
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96945502e88e9a845ae7e0b75665dcf5
+      internalID: 251203607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_178
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 163
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9af0a76fc5d80468b3c59db978dd99
+      internalID: 776372851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_179
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 164
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c592fb2eb473670478537026d0f14fb1
+      internalID: 2008443265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_180
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 159
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e2c1eb103c4874c8f00419830c6f2d
+      internalID: -1282975856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_181
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 136
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b8d8b050a88d194ea593640a15693e5
+      internalID: -522302574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_182
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 136
+        width: 4
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff2f9daf26461e4ca8172e7476f8d95
+      internalID: 328995421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_183
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 135
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8807164f53f9cda48a40fb10dd3a8ac7
+      internalID: -606418304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_184
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 135
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6eb4a80d3bea104593926da25ae8b55
+      internalID: -24931040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_185
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 135
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d5a6ecbc5a17004ba035b527f9e4393
+      internalID: 563323809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_186
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 141
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81eaa88626970e047bcf79ba10d5a10d
+      internalID: 1578689376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_187
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 140
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c84c777c89018b4d9391250d0bd774f
+      internalID: 593341546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_188
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 140
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5054df15bbc6574c9c6af4b187654be
+      internalID: -1386847814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_189
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 140
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42d32c65282b77408cf724ddda68e26
+      internalID: -748554974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_190
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 136
+        width: 5
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c4f43ccc3be2147bfb67877a4ad18c
+      internalID: -1721467591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_191
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 135
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a53a9a0be8d0e9442880b8903696c73f
+      internalID: 787482229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_192
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 135
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 384eedc28216b9d41ab44f5dde8f81f0
+      internalID: 986162327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_193
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 135
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81377af26dc1b0c40ace7bf90bd91741
+      internalID: -2117292402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_194
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 141
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b500bbb47677214c8db765e839c9766
+      internalID: -587744841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_195
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 140
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a6d30b9d478a934bb431d7bdc95ebec
+      internalID: -397751530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_196
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 140
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ed98833b5d2294983142dfb3033320
+      internalID: -732439014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_197
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 140
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71794de3474b21b4c82c96a799c9760c
+      internalID: 574084298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_198
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 136
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73336c2f153c02459984a6099655799
+      internalID: -897262795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_199
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 112
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80fef0c2bf2d17f4b8ea9815492e2684
+      internalID: 1873627352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_200
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 112
+        width: 4
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a19a5e54925f764095e8675de4ec2ec
+      internalID: -1145505900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_201
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 111
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae848eb626f79d40a50311acf905a5e
+      internalID: 1621442965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_202
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 111
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c04b30bd233126f49837b95ae9348a8b
+      internalID: 1294913485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_203
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 111
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdcba990860e5ac45adf5c823e9f4a2a
+      internalID: -3774607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_204
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 117
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a29618b87d7e254b937fb256c125acf
+      internalID: -2146980180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_205
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 117
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f26e4909111cb439986365ee462362
+      internalID: -1994467595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_206
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 117
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e3e11d86bd634418979c359753671f
+      internalID: -423636713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_207
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 117
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db9bf13ac78f7504abdb67e1618ab044
+      internalID: 787341513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_208
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 112
+        width: 4
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792d868cc73cc524faa7c3cedcfc15b5
+      internalID: -1251231815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_209
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 112
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7b1eb09670e844d81bf34942737196
+      internalID: -938714283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_210
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 112
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb27d04d0b5a5143b3f163902ac8b3e
+      internalID: -2039014574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_211
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 112
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a46be8ccfb6f3945b8d8beaec7772ea
+      internalID: -732439011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_212
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 117
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b9f6ee35b1f6746b36ea8ec9d5a9ee
+      internalID: 1302955426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_213
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 117
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab7943602f6ddbe4298d34e860f7760e
+      internalID: 1620584940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_214
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 117
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a781bea4e4a0f545ae3e39560836980
+      internalID: 1584917010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_215
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 117
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27396349f48b03d4d98da8b23ff774a8
+      internalID: -1687239201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_216
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 112
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 473cccec0faf9e9438375042846a8076
+      internalID: -131347693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_217
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 88
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05bcafaf7f2bd3d4c9edf6487c351975
+      internalID: 1279361084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_218
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 88
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a9b418b302d2c49996ae4961d2e113
+      internalID: -833702548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_219
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 89
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a022bf24443f2e4c945566392e510a6
+      internalID: -46061631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_220
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 89
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19fc1300207487a46af3034613f5b940
+      internalID: 1701265472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_221
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 89
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e0b775b2237c343b67377874dfe79f
+      internalID: -1825796009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_222
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 89
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc4bfe08b7cc594da2a053009788cb1
+      internalID: -730794032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_223
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 90
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd18aa628039704baecdb9a9f69e013
+      internalID: -1550963757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_224
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 89
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7b6e4379c8fc3a4fac8989e9c215978
+      internalID: -207325456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_225
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 89
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9c9f0ac993e9848a8765a8b6c8d46a
+      internalID: 1921426060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_226
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 89
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df2b4a3a61c2ea84a8a98861d6797115
+      internalID: 502655128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_227
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 89
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00f8d1815063bbf448c3cb9ca6021e51
+      internalID: 216629099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_228
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 93
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 568375e068e6f4844a68a00b321fb936
+      internalID: -575196944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_229
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 65
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03cffabfd1c69734abbd6613eebaa2eb
+      internalID: 2088877689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_230
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 67
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492b4127ae0e68346a20e244714a775c
+      internalID: -2080487065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_231
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 68
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44039e2f74e5cb40a5bbf1c71811613
+      internalID: 1464856241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_232
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 66
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e293e72c62a2f944b84109c38f06f490
+      internalID: 1425677959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_233
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 66
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e3c1d53a0592b42a84e6578632a113
+      internalID: 44134156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_234
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 66
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ebb43e6eb39134468ab476c45324b29
+      internalID: -1848143796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_235
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 66
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b91b069d8a586ab418b9524ea3cd20c2
+      internalID: 325836344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_236
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 66
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e4e5389fc00284995bc8258a1db3fe
+      internalID: 410218211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_237
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 66
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba4d6aa832fab614087fcec4c1e80e15
+      internalID: -1066539920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_238
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 66
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c506892a5edd2f46b1f22902b15be9d
+      internalID: 1217357197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_239
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 66
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711188ae788c20749b0bb7898aafe622
+      internalID: -335707927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_240
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 66
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bdd3724d9f00e449aeea4d77ba902a8
+      internalID: -568099326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_241
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 65
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec17e4c16585d24092df7a01a26d21a
+      internalID: -1240183875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_242
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 65
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: decf11b1ad767694fb9687d2a7b8e17c
+      internalID: -1659468270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_243
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 66
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b6c58192fb785439da422e4364abdb
+      internalID: 1324237627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_244
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 43
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad79f7395aa07343a98fd862266f4e3
+      internalID: -1861743513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_245
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 42
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40edd25898ca01b4781d68f756a5e919
+      internalID: -1194826909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_246
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 42
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2255db245def3094a9a604b5ba84297b
+      internalID: 1762288462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_247
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 42
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add4d2caaed554249975e744f11555b7
+      internalID: 1914369938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_248
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 42
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7f426401e119e4b9d49e74ad98095c
+      internalID: -1027090807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_249
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 42
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32424cb2b5470b64699fa055f4060380
+      internalID: -223106051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_250
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 42
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 916b34dc5c2a63a4c948f18d8ef8cc5d
+      internalID: 546274308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_251
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 42
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03586aa522c8c9e4983682179211497a
+      internalID: 1670672622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_252
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 42
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1772918770b9c74ea5ad1997154fbdb
+      internalID: -833086422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_253
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 44
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0fec9aa510507d4bad189d56174b896
+      internalID: -364320025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_254
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 43
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e2e9a948823a346bd53f4c1008342d
+      internalID: -682688207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_255
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 43
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6535b4c4c5a61354fa794b75191b1559
+      internalID: -1931663584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_256
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 43
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea6d545edb4fc4841bf81e9ef0212124
+      internalID: 1007931081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_257
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 42
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547e3c9dd8b1b41418a564ee2b9d6fcd
+      internalID: 541106891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_258
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 42
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c907ec752f5154294260d094ff974b
+      internalID: -1594005943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_259
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4
+        width: 161
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16481f21130d7ee46b055eec2bef0082
+      internalID: 37971680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Payaso Boss_260
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 19
+        width: 39
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6927c18904b36354f9eafee5ea48915a
+      internalID: -644852949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Payaso Boss_0: 1251847750
+      Payaso Boss_1: -221475051
+      Payaso Boss_10: 642239958
+      Payaso Boss_100: -274414273
+      Payaso Boss_101: -1523543559
+      Payaso Boss_102: -40912454
+      Payaso Boss_103: -36522840
+      Payaso Boss_104: -2113190842
+      Payaso Boss_105: -1038142957
+      Payaso Boss_106: -1160957398
+      Payaso Boss_107: 490625238
+      Payaso Boss_108: -116091664
+      Payaso Boss_109: -1930168895
+      Payaso Boss_11: -307327278
+      Payaso Boss_110: -201569758
+      Payaso Boss_111: -206386728
+      Payaso Boss_112: -92937792
+      Payaso Boss_113: -631358962
+      Payaso Boss_114: 793788980
+      Payaso Boss_115: -1304851039
+      Payaso Boss_116: -1975154321
+      Payaso Boss_117: 1872995643
+      Payaso Boss_118: -938257139
+      Payaso Boss_119: -2143854379
+      Payaso Boss_12: -1577956477
+      Payaso Boss_120: 130451854
+      Payaso Boss_121: -1788759719
+      Payaso Boss_122: -1270453836
+      Payaso Boss_123: -1325748991
+      Payaso Boss_124: 529733757
+      Payaso Boss_125: -1001055301
+      Payaso Boss_126: -140739435
+      Payaso Boss_127: 212203745
+      Payaso Boss_128: 2122540393
+      Payaso Boss_129: 1470975604
+      Payaso Boss_13: 890536532
+      Payaso Boss_130: -1816611608
+      Payaso Boss_131: 1274569386
+      Payaso Boss_132: -549830110
+      Payaso Boss_133: -1532727878
+      Payaso Boss_134: 1667059397
+      Payaso Boss_135: 1008507020
+      Payaso Boss_136: -268839767
+      Payaso Boss_137: 755898852
+      Payaso Boss_138: 346961817
+      Payaso Boss_139: -1294999383
+      Payaso Boss_14: 1346833558
+      Payaso Boss_140: 1302546110
+      Payaso Boss_141: 1179511315
+      Payaso Boss_142: 1240445344
+      Payaso Boss_143: 2059073768
+      Payaso Boss_144: 2060189906
+      Payaso Boss_145: -631293635
+      Payaso Boss_146: -1148499245
+      Payaso Boss_147: 1473367108
+      Payaso Boss_148: -2046713377
+      Payaso Boss_149: -2045981369
+      Payaso Boss_15: -910870159
+      Payaso Boss_150: 525081107
+      Payaso Boss_151: -638217040
+      Payaso Boss_152: 1400624878
+      Payaso Boss_153: -1732686819
+      Payaso Boss_154: -1174379352
+      Payaso Boss_155: 626795384
+      Payaso Boss_156: -1199255998
+      Payaso Boss_157: 248340592
+      Payaso Boss_158: 619998510
+      Payaso Boss_159: 707033870
+      Payaso Boss_16: -381185788
+      Payaso Boss_160: -897334874
+      Payaso Boss_161: 407833289
+      Payaso Boss_162: 1456528048
+      Payaso Boss_163: 1199170172
+      Payaso Boss_164: -29928317
+      Payaso Boss_165: 377223213
+      Payaso Boss_166: -879131831
+      Payaso Boss_167: 1104704708
+      Payaso Boss_168: 704120865
+      Payaso Boss_169: 2070670116
+      Payaso Boss_17: 145368511
+      Payaso Boss_170: -859160028
+      Payaso Boss_171: 1720724753
+      Payaso Boss_172: -330639
+      Payaso Boss_173: -662641760
+      Payaso Boss_174: 1631044536
+      Payaso Boss_175: -1042645484
+      Payaso Boss_176: -714342890
+      Payaso Boss_177: 251203607
+      Payaso Boss_178: 776372851
+      Payaso Boss_179: 2008443265
+      Payaso Boss_18: -185871722
+      Payaso Boss_180: -1282975856
+      Payaso Boss_181: -522302574
+      Payaso Boss_182: 328995421
+      Payaso Boss_183: -606418304
+      Payaso Boss_184: -24931040
+      Payaso Boss_185: 563323809
+      Payaso Boss_186: 1578689376
+      Payaso Boss_187: 593341546
+      Payaso Boss_188: -1386847814
+      Payaso Boss_189: -748554974
+      Payaso Boss_19: 55379319
+      Payaso Boss_190: -1721467591
+      Payaso Boss_191: 787482229
+      Payaso Boss_192: 986162327
+      Payaso Boss_193: -2117292402
+      Payaso Boss_194: -587744841
+      Payaso Boss_195: -397751530
+      Payaso Boss_196: -732439014
+      Payaso Boss_197: 574084298
+      Payaso Boss_198: -897262795
+      Payaso Boss_199: 1873627352
+      Payaso Boss_2: -325555536
+      Payaso Boss_20: -1056181622
+      Payaso Boss_200: -1145505900
+      Payaso Boss_201: 1621442965
+      Payaso Boss_202: 1294913485
+      Payaso Boss_203: -3774607
+      Payaso Boss_204: -2146980180
+      Payaso Boss_205: -1994467595
+      Payaso Boss_206: -423636713
+      Payaso Boss_207: 787341513
+      Payaso Boss_208: -1251231815
+      Payaso Boss_209: -938714283
+      Payaso Boss_21: 378405591
+      Payaso Boss_210: -2039014574
+      Payaso Boss_211: -732439011
+      Payaso Boss_212: 1302955426
+      Payaso Boss_213: 1620584940
+      Payaso Boss_214: 1584917010
+      Payaso Boss_215: -1687239201
+      Payaso Boss_216: -131347693
+      Payaso Boss_217: 1279361084
+      Payaso Boss_218: -833702548
+      Payaso Boss_219: -46061631
+      Payaso Boss_22: -1129036716
+      Payaso Boss_220: 1701265472
+      Payaso Boss_221: -1825796009
+      Payaso Boss_222: -730794032
+      Payaso Boss_223: -1550963757
+      Payaso Boss_224: -207325456
+      Payaso Boss_225: 1921426060
+      Payaso Boss_226: 502655128
+      Payaso Boss_227: 216629099
+      Payaso Boss_228: -575196944
+      Payaso Boss_229: 2088877689
+      Payaso Boss_23: 190990851
+      Payaso Boss_230: -2080487065
+      Payaso Boss_231: 1464856241
+      Payaso Boss_232: 1425677959
+      Payaso Boss_233: 44134156
+      Payaso Boss_234: -1848143796
+      Payaso Boss_235: 325836344
+      Payaso Boss_236: 410218211
+      Payaso Boss_237: -1066539920
+      Payaso Boss_238: 1217357197
+      Payaso Boss_239: -335707927
+      Payaso Boss_24: -733823636
+      Payaso Boss_240: -568099326
+      Payaso Boss_241: -1240183875
+      Payaso Boss_242: -1659468270
+      Payaso Boss_243: 1324237627
+      Payaso Boss_244: -1861743513
+      Payaso Boss_245: -1194826909
+      Payaso Boss_246: 1762288462
+      Payaso Boss_247: 1914369938
+      Payaso Boss_248: -1027090807
+      Payaso Boss_249: -223106051
+      Payaso Boss_25: -923463466
+      Payaso Boss_250: 546274308
+      Payaso Boss_251: 1670672622
+      Payaso Boss_252: -833086422
+      Payaso Boss_253: -364320025
+      Payaso Boss_254: -682688207
+      Payaso Boss_255: -1931663584
+      Payaso Boss_256: 1007931081
+      Payaso Boss_257: 541106891
+      Payaso Boss_258: -1594005943
+      Payaso Boss_259: 37971680
+      Payaso Boss_26: 160933138
+      Payaso Boss_260: -644852949
+      Payaso Boss_27: 365768682
+      Payaso Boss_28: 1677748401
+      Payaso Boss_29: -592109386
+      Payaso Boss_3: 1577743968
+      Payaso Boss_30: -809219130
+      Payaso Boss_31: 1775240743
+      Payaso Boss_32: 1259391721
+      Payaso Boss_33: -1419140476
+      Payaso Boss_34: -1032351252
+      Payaso Boss_35: -1802581735
+      Payaso Boss_36: -2032373856
+      Payaso Boss_37: -361987266
+      Payaso Boss_38: -1790859370
+      Payaso Boss_39: 1935211816
+      Payaso Boss_4: -549780870
+      Payaso Boss_40: -394025897
+      Payaso Boss_41: -1251788328
+      Payaso Boss_42: -2110792701
+      Payaso Boss_43: -817634168
+      Payaso Boss_44: -662302439
+      Payaso Boss_45: -853586742
+      Payaso Boss_46: -604449218
+      Payaso Boss_47: -1512463579
+      Payaso Boss_48: 622386576
+      Payaso Boss_49: 533196035
+      Payaso Boss_5: 140430394
+      Payaso Boss_50: -311681979
+      Payaso Boss_51: 655818879
+      Payaso Boss_52: -1615493765
+      Payaso Boss_53: -601758781
+      Payaso Boss_54: 1732376774
+      Payaso Boss_55: 1641983899
+      Payaso Boss_56: 584833359
+      Payaso Boss_57: 1450433547
+      Payaso Boss_58: -1577414259
+      Payaso Boss_59: -1773476988
+      Payaso Boss_6: 492798064
+      Payaso Boss_60: -54469139
+      Payaso Boss_61: 2084820585
+      Payaso Boss_62: 616772582
+      Payaso Boss_63: 1398884854
+      Payaso Boss_64: 805856876
+      Payaso Boss_65: 1282736989
+      Payaso Boss_66: -271953784
+      Payaso Boss_67: -1673732668
+      Payaso Boss_68: 462438930
+      Payaso Boss_69: 1277321122
+      Payaso Boss_7: -241643716
+      Payaso Boss_70: -63759869
+      Payaso Boss_71: 1092988146
+      Payaso Boss_72: -457204784
+      Payaso Boss_73: -1226806925
+      Payaso Boss_74: -1158002342
+      Payaso Boss_75: -276657736
+      Payaso Boss_76: -57527917
+      Payaso Boss_77: 1485589071
+      Payaso Boss_78: -1265854735
+      Payaso Boss_79: 560417911
+      Payaso Boss_8: 1020876932
+      Payaso Boss_80: -179034408
+      Payaso Boss_81: 2027719036
+      Payaso Boss_82: 1636342542
+      Payaso Boss_83: -2028088826
+      Payaso Boss_84: -1514857090
+      Payaso Boss_85: -1153018841
+      Payaso Boss_86: -1695480014
+      Payaso Boss_87: -608313466
+      Payaso Boss_88: -17630312
+      Payaso Boss_89: -1647008605
+      Payaso Boss_9: 717050644
+      Payaso Boss_90: 1878922196
+      Payaso Boss_91: 1636346956
+      Payaso Boss_92: 1714821716
+      Payaso Boss_93: 646414984
+      Payaso Boss_94: 1668971623
+      Payaso Boss_95: 1600456427
+      Payaso Boss_96: -1497474727
+      Payaso Boss_97: -1835048244
+      Payaso Boss_98: 1010144486
+      Payaso Boss_99: -693162368
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
