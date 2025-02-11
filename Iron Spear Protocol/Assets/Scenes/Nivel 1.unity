@@ -134,7 +134,7 @@ GameObject:
   - component: {fileID: 241411404}
   - component: {fileID: 241411403}
   m_Layer: 0
-  m_Name: Tilemap
+  m_Name: Campo de Entrenamiento
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
